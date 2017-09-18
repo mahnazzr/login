@@ -1,3 +1,3 @@
 testignore/
 ignore2.html
-!testignore/notignore.html
+!notignore.html
